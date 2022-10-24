@@ -1,5 +1,0 @@
-파일명은 모듈명으로 설정
-
-ex) block.java, frame.java, DB.java
-
-수정사항 발생 후 PULL할 시 코멘트 '반드시' 달기

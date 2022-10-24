@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-encoding//src/block/Block.java=UTF-8
-encoding//src/constant/Constant.java=UTF-8
-encoding//src/controller/TetrisManager.java=UTF-8
-encoding//src/util/ScreenUtil.java=UTF-8
-encoding//src/view/EndMenuPopup.java=UTF-8
-encoding//src/view/MainMenuPopup.java=UTF-8
-encoding//src/view/PauseMenuPopup.java=UTF-8
-encoding//src/view/TetrisView.java=UTF-8
